@@ -1,0 +1,8 @@
+name: SnowyRanks
+version: '${version}'
+main: com.snowy.snowyranks.Main
+api-version: 1.19
+authors: [ Archiee ]
+description: Rank system
+commands:
+  rank:
